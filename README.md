@@ -21,7 +21,7 @@ User Profile Information Analysis: Input various profile attributes to determine
 
 ### 1. Clone the repository:
 
-    git clone https://github.com/yourusername/fake-user-profile-identification.git
+    git clone https://github.com/tamboliv10/fake_insta_profile_detection.git
     cd fake-user-profile-identification
 
 ### 2. Create a virtual environment:
