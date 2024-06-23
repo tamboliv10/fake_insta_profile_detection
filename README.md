@@ -2,12 +2,12 @@
 
 ## Project Description:
 
-The Fake User Profile Identification System is a machine learning-based application designed to identify whether an Instagram profile is genuine or fake. This project utilizes advanced algorithms such as Support Vector Machines (SVM) and Artificial Neural Networks (ANN) to analyze user profile data and predict the authenticity of the account.
+This is a Python-based tool designed to evaluate the authenticity of Instagram profiles, addressing the increasing issue of fake accounts on social media. Utilizing the instaloader library, InstaVerified extracts comprehensive profile data and analyzes it against predefined criteria to determine if a profile is likely genuine or fake.
+The tool focuses on key indicators such as the presence of a profile picture, follower-to-following ratio, bio description, and post count to assess profile authenticity. While currently serving as a basic prototype, InstaVerified sets the foundation for future enhancements, including analysis of comments, captions, and the nature of the user's followers.
+
 
 ## Features
 User Profile Information Analysis: Input various profile attributes to determine if the account is fake or real.
-- Machine Learning Models: Utilizes SVM and ANN for accurate prediction.
-- Web Interface: Simple and user-friendly web interface built using Flask.
 
 ## Requirements
 - joblib==1.3.2
